@@ -5,6 +5,9 @@
 .text-purple {
   color: #ff136f;
 }
+.text-gray {
+  color: gray;
+}
 .btn-linear-purple {
   background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
 }
