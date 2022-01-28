@@ -1,0 +1,16 @@
+/* Utilities */
+.bg-purple {
+  background: #feeae9;
+}
+.btn-purple {
+  background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+}
+.bg-linear-orange {
+  background: linear-gradient(152.07deg, #ff9c35 1.47%, #ffd019 97.17%);
+}
+.bg-linear-purple {
+  background: linear-gradient(180deg, #ff589b -0.01%, #ff136f 99.99%);
+}
+.bg-linear-blue {
+  background: linear-gradient(170.41deg, #4289ff -10.89%, #3f07f8 92.77%);
+}
