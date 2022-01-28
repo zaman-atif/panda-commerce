@@ -2,7 +2,10 @@
 .bg-purple {
   background: #feeae9;
 }
-.btn-purple {
+.text-purple {
+  color: #ff136f;
+}
+.btn-linear-purple {
   background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
 }
 .bg-linear-orange {
