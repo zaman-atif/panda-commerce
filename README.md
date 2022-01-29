@@ -38,4 +38,4 @@ Live Site: https://panda-commerce-bootstrap-0108.netlify.app/
 
 # Hosting / Deployment Status
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/72b87f3e-c64f-4088-af3b-21561813e222/deploy-status)](https://app.netlify.com/sites/hungry-wing-012951/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/72b87f3e-c64f-4088-af3b-21561813e222/deploy-status)](https://app.netlify.com/sites/panda-commerce-bootstrap-0108/deploys)
